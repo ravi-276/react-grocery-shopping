@@ -1,0 +1,2 @@
+Here’s a simple example of a basic homepage layout for a grocery system. The homepage could include a header, navigation links, a featured products section, and a footer.
+This is a simple and basic homepage layout. You can expand on this by adding more features, such as a shopping cart, product categories, or even integrating it with a backend to handle actual product information and transactions.
